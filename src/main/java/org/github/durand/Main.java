@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("Aïolah est passée par là 😎");
+        System.out.println("Vous ne passerez pas !!");
         System.out.println("🐣");
     }
 }
